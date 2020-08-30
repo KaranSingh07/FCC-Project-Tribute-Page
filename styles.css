@@ -1,0 +1,97 @@
+html,
+body {
+  background-color: rgb(245, 240, 238);
+  font-family: "Roboto";
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+#main {
+  background-color: rgb(243, 225, 215);
+  width: 98%;
+  height: 100%;
+  margin: 25px auto;
+  text-align: center;
+  padding-top: 10px;
+  border-radius: 7px 7px 5px 5px;
+}
+
+#title {
+  color: rgb(241, 96, 29);
+  font-size: 35px;
+  font-family: "Segoe UI", Oxygen;
+  margin-bottom: 12px;
+  padding-top: 0px;
+  letter-spacing: 1px;
+}
+
+.caption {
+  font-family: Tahoma;
+  color: rgb(177, 74, 14);
+  font-size: 13px;
+  font-weight: 300;
+  letter-spacing: 1px;
+}
+
+#title-caption {
+  margin-top: 0px;
+  padding-bottom: 0px;
+}
+
+#img-div {
+  background-color: rgb(243, 236, 234);
+  padding: 40px auto 40px auto;
+  border-radius: 5px 5px 4px 4px;
+  width: 97%;
+  margin: 0 auto;
+}
+
+#image {
+  display: block;
+  width: 55vw;
+  margin: 0 auto;
+  padding-top: 25px;
+}
+
+#img-caption {
+  padding: 15px 0;
+  font-size: 13px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+#timeline-head {
+  color: rgb(241, 96, 29);
+  letter-spacing: 1px;
+}
+
+#timeline-head {
+  margin: 40px 0 30px;
+}
+
+#timeline-list {
+  width: 45vw;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.timeline-list-element {
+  font-size: 13px;
+  color: rgb(104, 6, 6);
+  margin-bottom: 30px;
+}
+.timeline-list-element-head {
+  font-weight: 600;
+  color: rgb(221, 80, 14);
+  font-size: 14px;
+  font-family: "Roboto";
+}
+
+#references-head {
+  color: rgb(241, 96, 29);
+  letter-spacing: 1px;
+  padding-bottom: 35px;
+}
