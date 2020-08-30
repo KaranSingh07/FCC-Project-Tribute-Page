@@ -54,6 +54,7 @@ body {
   width: 55vw;
   margin: 0 auto;
   padding-top: 25px;
+  max-width: 100%;
 }
 
 #img-caption {
